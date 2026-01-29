@@ -83,7 +83,7 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 -->
 ## 📫 Connect With Me
 
-- **Instagram:** [@bugatsec](https://www.instagram.com/bugatsec/)  
+- **Instagram:** [@bugatsec](https://www.instagram.com/bugatsec/)     <div class="tenor-gif-embed" data-postid="17895261" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/luffy-ruffy-one-piece-run-anime-gif-17895261">Luffy Ruffy Sticker</a>from <a href="https://tenor.com/search/luffy-stickers">Luffy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - **X (Twitter):** [@Bugatsec](https://x.com/Bugatsec)  
 - **LinkedIn:** [Ranveer Kohli](https://www.linkedin.com/in/ranveerkohli/)  
 - **Email:** bugatsec@gmail.com  
