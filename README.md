@@ -28,7 +28,7 @@ I’m looking forward to collaborate to create intresting projects and in bug bo
 
 I'm a passionate cybersecurity enthusiast focused on **web application security**, **bug bounty hunting**, and **real-world exploitation**.  
 I enjoy breaking things responsibly, writing about findings, and collaborating on impactful security tools & research.
-
+<!--
 ---
 
 ## 🔐 Companies Where I’ve Reported Vulnerabilities
@@ -80,7 +80,7 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
   > Write-ups, vulnerability breakdowns, and learning notes  
 
 ---
-
+-->
 ## 📫 Connect With Me
 
 - **Instagram:** [@bugatsec](https://www.instagram.com/bugatsec/)  
@@ -89,7 +89,7 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 - **Email:** bugatsec@gmail.com  
 
 🌐 **Portfolio / Website:** [bugatsec.dev](https://bugatsec.dev)
-
+<!--
 ---
 
 ## 🤝 Collaboration
@@ -101,7 +101,7 @@ I’m always open to:
 - Learning & building with like-minded hackers  
 
 📩 Feel free to reach out — let’s build (and break) cool things responsibly.
-
+-->
 
 
 
