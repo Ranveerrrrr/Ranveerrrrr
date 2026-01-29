@@ -13,5 +13,6 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 - **Instagram:** [@bugatsec](https://www.instagram.com/bugatsec/)
 - **X (Twitter):** [@Bugatsec](https://x.com/Bugatsec)  
 - **LinkedIn:** [Ranveer Kohli](https://www.linkedin.com/in/ranveerkohli/) 
-- **Email:** bugatsec@gmail.com  
+- **Email:** bugatsec@gmail.com
+
 🌐 **Portfolio:** [bugatsec.dev](https://bugatsec.dev)
