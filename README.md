@@ -3,10 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Ranveer+%7C+Bugatsec;Bug+Bounty+Hunter;Web+Security+Researcher;Breaking+Things+Responsibly" />
 </p>
 
-<p>
-  
-‎ ‎ ‎‎‎‎   ‎ ‎ ‎ ‎‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ![luffy](https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca) 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ranveerrrrr)
