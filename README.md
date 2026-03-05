@@ -13,9 +13,6 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ranveerrrrr&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranveerrrrr&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ## 📫 Connect With Me
 
