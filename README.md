@@ -1,5 +1,5 @@
 # 👋 Yo!, I'm Ranveer (aka **Bugatsec**)
-![luffy](https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca)
+![luffy](https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca) 
 
 > Cybersecurity learner | Bug Bounty Hunter | Security Researcher  
 > Alias pronounced: **Bug-at-sec**
@@ -11,7 +11,9 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ranveerrrrr&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ranveerrrrr&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=aaaaaa&stroke=00ff9c"/>
+<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranveerrrrr&show_icons=true&bg_color=000000&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c&border_color=00ff9c"/>
+
 </p>
 
 ## 📫 Connect With Me
@@ -39,3 +41,4 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 </a>
 
 </p>
+
