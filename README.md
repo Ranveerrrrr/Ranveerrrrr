@@ -11,9 +11,26 @@ I enjoy breaking things responsibly, writing about findings, and collaborating o
 
 ## 📫 Connect With Me
 
-- **Instagram:** [@bugatsec](https://www.instagram.com/bugatsec/)
-- **X (Twitter):** [@Bugatsec](https://x.com/Bugatsec)  
-- **LinkedIn:** [Ranveer Kohli](https://www.linkedin.com/in/ranveerkohli/) 
-- **Email:** bugatsec@gmail.com
 
-🌐 **Portfolio:** [bugatsec.dev](https://bugatsec.dev)
+<p>
+
+<a href="https://bugatsec.dev">
+<img src="https://img.shields.io/badge/Portfolio-bugatsec.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Bugatsec">
+<img src="https://img.shields.io/badge/X-@Bugatsec-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/bugatsec/">
+<img src="https://img.shields.io/badge/Instagram-@bugatsec-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranveerkohli/">
+<img src="https://img.shields.io/badge/LinkedIn-Ranveer%20Kohli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bugatsec@gmail.com">
+<img src="https://img.shields.io/badge/Email-bugatsec@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
