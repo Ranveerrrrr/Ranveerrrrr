@@ -1,16 +1,22 @@
 # 👋 Yo!, I'm Ranveer (aka **Bugatsec**)
-![luffy](https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Ranveer+%7C+Bugatsec;Bug+Bounty+Hunter;Web+Security+Researcher;Breaking+Things+Responsibly" />
+</p>
 
-> Cybersecurity learner | Bug Bounty Hunter | Security Researcher  
-> Alias pronounced: **Bug-at-sec**
+<p>
+  
+‎ ‎ ‎‎‎‎   ‎ ‎ ‎ ‎‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![luffy](https://github.com/user-attachments/assets/38e14bd1-c832-4f97-b388-2691663e87ca) 
+
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ranveerrrrr)
 
 I'm a passionate cybersecurity enthusiast focused on **web application security**, **bug bounty hunting**, and **real-world exploitation**.  
 I enjoy breaking things responsibly, writing about findings, and collaborating on impactful security tools & research.
+> Alias pronounced: **Bug-at-sec**
 
 ## 📊 GitHub Stats
-<p>
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Ranveerrrrr&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=aaaaaa&stroke=00ff9c"/>
 </p>
 
