@@ -10,7 +10,7 @@ I'm a passionate cybersecurity enthusiast focused on **web application security*
 I enjoy breaking things responsibly, writing about findings, and collaborating on impactful security tools & research.
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
 <img src="https://streak-stats.demolab.com?user=Ranveerrrrr&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=aaaaaa&stroke=00ff9c"/>
 </p>
 
